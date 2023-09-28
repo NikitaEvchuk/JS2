@@ -37,5 +37,5 @@ console.log(Math.sqrt(d))
 
 let e = 9
 let f = "7"
-console.log(Number().toString)
+console.log(Number(e).toString())
 console.log(Number.parseInt(f))
